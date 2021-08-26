@@ -1,6 +1,6 @@
 using System;
 
-namespace InlinConstraint
+namespace HomeWorkConstraint
 {
     public class WeatherForecast
     {

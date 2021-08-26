@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\HomeWork_Module_2\\HomeWorkInlinConstraint\\InlinConstraint.csproj",
-      "projectName": "InlinConstraint",
-      "projectPath": "E:\\HomeWork_Module_2\\HomeWorkInlinConstraint\\InlinConstraint.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Downloads\\Telegram Desktop\\HomeWorkConstraint\\HomeWorkConstraint\\HomeWorkConstraint.csproj",
+      "projectName": "HomeWorkConstraint",
+      "projectPath": "C:\\Users\\user\\Downloads\\Telegram Desktop\\HomeWorkConstraint\\HomeWorkConstraint\\HomeWorkConstraint.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "E:\\HomeWork_Module_2\\HomeWorkInlinConstraint\\obj\\",
+      "outputPath": "C:\\Users\\user\\Downloads\\Telegram Desktop\\HomeWorkConstraint\\HomeWorkConstraint\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
